@@ -5,8 +5,10 @@ header-img: img/home-bg.jpg
 email: fengxie2157@gmail.com
 description: "爱幻想的90后"
 keyword: ""
-url: "https://github.com/luckyWind01"              # your host, for absolute URL
-baseurl: "/luckyWind01.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
+# If this repo is named `<username>.github.io`, GitHub Pages serves it at the root:
+# https://<username>.github.io/  (no baseurl needed).
+url: "https://luckyWind01.github.io"              # your host, for absolute URL
+baseurl: ""                                      # e.g. '/blog' for project pages, empty for user pages
 
 
 
