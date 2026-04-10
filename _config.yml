@@ -98,3 +98,6 @@ friends: [
         href: "#"
     }
 ]
+exclude:
+  - README.md
+  - README.zh.md
