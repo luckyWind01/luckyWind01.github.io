@@ -15,7 +15,7 @@ baseurl: ""                                      # e.g. '/blog' for project page
 # SNS settings
 RSS: false
 # weibo_username:     huxpro
-zhihu_username:     陈皮话糖
+zhihu_username:     feng-xie-feng-yun
 github_username:    luckyWind01
 twitter_username:  fengxie2157
 # facebook_username:  huxpro
