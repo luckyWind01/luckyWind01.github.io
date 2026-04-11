@@ -2,7 +2,7 @@
 layout:     post
 title:      "NanoAgent 七种模式详解"
 subtitle:   " \"Agent模式\""
-date:       2015-01-29 12:00:00
+date:       2026-04-10 12:00:00
 author:     "fengyun"
 header-img: "img/post-bg-2015.jpg"
 tags:
